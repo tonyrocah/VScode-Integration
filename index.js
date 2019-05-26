@@ -7,4 +7,4 @@
  let selectedColor = null;
  console.log('Hello World');
  console.log(name);
- console.log('From SynPCbranch');
+ console.log('This in the first Test of VSCode GitHub Integration SynPCbranch');
